@@ -1,0 +1,4 @@
+#!/bin/bash
+
+while true; do echo -n "=== === === Restart of while loop "; date; python alliance.py; echo -n "=== === === ...looping"; sleep 60; done
+
